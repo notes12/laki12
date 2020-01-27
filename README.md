@@ -1,5 +1,5 @@
 <html>
    <body>
-     <embed src="lk.txt" width="200" height="200">
+     <embed src="lk.txt" width="100%" height="100%">
   </body>
 </html>
